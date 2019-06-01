@@ -29,7 +29,6 @@
 
 <script>
 import ContactService from "@/services/ContactService";
-// import Vue from 'vue'
 
 export default {
   name: "contactForm",

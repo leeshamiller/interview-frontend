@@ -11,18 +11,6 @@
 import ContactList from "@/components/ContactList";
 import ContactForm from "@/components/ContactForm";
 
-// import Vue from "vue";
-// const form = new Vue({
-//   el: "#form",
-//   data: {
-//     form: {
-//       name: "",
-//       phone: "",
-//       email: "",
-//       is_favorite: false
-//     }
-//   }
-// });
 
 export default {
   name: "home",
